@@ -3,7 +3,7 @@ export const singers = [
     id: 1,
     name: 'My-Fi',
     title: 'A Mysterious Fidelity',
-    description: 'A mysterious digital entity that speaks only in binary. My-Fi represents the core of the Broken Fidelity Project, exploring the boundaries between human expression and digital data.',
+    description: 'A mysterious 12 year old kid that speaks only in binary. Lore in progress...',
     color: '#8B5CF6',
     imageColor: 'linear-gradient(135deg, #8B5CF6 0%, #C4B5FD 100%)',
     features: ['CV & CVVC support', 'Japanese language', 'Shift-JIS encoding', 'Kana aliased', 'C3~C5 range', '90~190 BPM optimum'],
