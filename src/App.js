@@ -6,7 +6,7 @@ import SingerPage from './pages/SingerPage';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/singer/:singerId" element={<SingerPage />} />

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import './SingerCard.css';
 
 const SingerCard = ({ singer }) => {
-  const imageUrl = '/images/' + encodeURIComponent(singer.portrait);
+  const imageUrl = `${process.env.PUBLIC_URL}/images/${encodeURIComponent(singer.portrait)}`;
   return (
     <motion.div 
       className="singer-card glass"

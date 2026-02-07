@@ -18,7 +18,7 @@ const SingerPage = () => {
     );
   }
 
-  const imageUrl = '/images/' + encodeURIComponent(singer.portrait);
+  const imageUrl = `${process.env.PUBLIC_URL}/images/${encodeURIComponent(singer.portrait)}`;
 
   return (
     <div className="singer-page">
