@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/broken-fidelity/static/css/main.12d562e1.css",
-    "main.js": "/broken-fidelity/static/js/main.258c769a.js",
+    "main.js": "/broken-fidelity/static/js/main.a9f7af97.js",
     "index.html": "/broken-fidelity/index.html",
     "main.12d562e1.css.map": "/broken-fidelity/static/css/main.12d562e1.css.map",
-    "main.258c769a.js.map": "/broken-fidelity/static/js/main.258c769a.js.map"
+    "main.a9f7af97.js.map": "/broken-fidelity/static/js/main.a9f7af97.js.map"
   },
   "entrypoints": [
     "static/css/main.12d562e1.css",
-    "static/js/main.258c769a.js"
+    "static/js/main.a9f7af97.js"
   ]
 }
