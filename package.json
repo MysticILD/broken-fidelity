@@ -2,7 +2,7 @@
   "name": "broken-fidelity-project",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://MysticILD.github.io/broken-fidelity",
+  "homepage": "https://brokenfidelity.com",
   "dependencies": {
     "framer-motion": "^10.16.4",
     "react": "^18.2.0",
